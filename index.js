@@ -70,7 +70,7 @@ console.log(maxValue());
 //        valTimesIndex([5,10,15]) // [0,10,30]
 
 // answer
-const list2 = [1,2,3]
+const list2 = [5,10,15]
 let list3 = []
 function valTimesIndex (){
     for (let index = 0; index < list2.length; index++) {
