@@ -47,9 +47,9 @@ let fruit = ['apple', 'mango', 'banana'];
     			fruit[2] = "orange";
     			return fruit;
 		}
-
+console.log(changeFruit(fruit))
 // answer
-//fruit = ['apple', 'mango', 'banana']
+//fruit = ['apple', 'mango', 'orange']
 
 
 //(Q4) Write a function that accepts an array of numbers as an argument. Return the maximum value in the array.
